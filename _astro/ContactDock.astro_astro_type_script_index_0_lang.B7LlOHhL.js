@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./motion.CfSUAz7d.js";function n(){let n=document.querySelector(`[data-wa-ring]`);!n||n.dataset.on||e()||(n.dataset.on=`true`,t.fromTo(n,{scale:1,opacity:.45},{scale:1.9,opacity:0,duration:2.2,ease:`power2.out`,repeat:-1,repeatDelay:.6}))}document.addEventListener(`astro:page-load`,n);

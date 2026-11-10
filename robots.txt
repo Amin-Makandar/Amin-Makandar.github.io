@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO(launch): update to the purchased domain
+Sitemap: https://sahyagiriassociates.com/sitemap-index.xml
